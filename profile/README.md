@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile/header.png" alt="FINNEX Banner" width="100%">
+  <img src="finnex_transparent-Schrift.png" alt="FINNEX Banner" width="100%">
 </div>
 
 # Financial Network for Excellence
