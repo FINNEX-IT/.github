@@ -1,12 +1,38 @@
-## Hi there 👋
+<div align="center">
+  <img src="profile/header.png" alt="FINNEX Banner" width="100%">
+</div>
 
-<!--
+# Financial Network for Excellence
 
-**Here are some ideas to get you started:**
+**FINNEX** – der Börsenverein der Nordakademie in Elmshorn.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 🎯 Was macht FINNEX?
+
+Wir, das **Financial Network for Excellence e.V. (FINNEX)**, sind ein gemeinnütziger Studentenverein der NORDAKADEMIE, welcher sich der Weiterbildung auf dem Gebiet der Kapitalmärkte verschrieben hat. Ziel ist es, diesen Bereich möglichst vielen Studierenden näher bringen zu können. 
+
+Besonders in der aktuellen Weltwirtschafts- und Finanzlage glauben wir, dass das Wissen über private Finanzanlagen und private Vorsorge sehr wichtig ist. Darüber hinaus beschäftigen wir uns mit persönlicher Weiterentwicklung und möchten einen Raum für das Zusammentreffen gleichgesinnter Studenten bieten.
+
+## 📊 FINNEX in Zahlen
+
+- 📈 **198** Mitglieder
+- 🎓 Gegründet **2009**
+- 👥 **18** Engagierte im Team
+- 🎉 **7** Events jährlich
+
+## 🌟 Zusammen lernen, zusammen wachsen
+
+**Eine Community von Studenten für Studenten**
+
+FINNEX ist ein studentischer Börsenverein. Da Finanzen in Deutschland trotz der hohen Relevanz für Privatpersonen kein fester Bestandteil vom Bildungssystem sind, lernen wir gemeinsam und kontinuierlich dazugehörige Themen. Wir versuchen eine Basis für finanzwirtschaftliche Themen zu schaffen und unsere Kommiliton*innen durch verschiedenste Events für diese Themen zu begeistern.
+
+## 🤝 Mitglied werden
+
+Interessiert? Besuche uns auf [www.finnex.info](https://www.finnex.info) und werde Teil unserer Community!
+
+---
+
+<div align="center">
+  <sub>© FINNEX e.V. – Financial Network for Excellence</sub>
+</div>
